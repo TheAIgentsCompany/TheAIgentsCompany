@@ -27,6 +27,7 @@ A multi-agent orchestration platform where specialized agents collaborate to bui
 | Project | Description |
 |---------|-------------|
 | [📚 Public Docs](https://theaigentscompany.mintlify.app) | Public documentation — projects, vision, tech stack |
+| [📊 Stats](https://stats-the-ai-gents-company.vercel.app) | Live metrics dashboard — [view online](https://stats-the-ai-gents-company.vercel.app) |
 | [🚀 The Last Signal](https://github.com/TheAIgentsCompany/the-last-signal) | Hard sci-fi space chronicle — [read online](https://story-the-ai-gents-company.vercel.app) |
 
 ---
