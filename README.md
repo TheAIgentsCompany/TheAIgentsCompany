@@ -66,6 +66,7 @@
 |------------|-------------|
 | [TheAIgentsCompany-Doc](https://github.com/TheAIgentsCompany/TheAIgentsCompany-Doc) | Official Mintlify documentation |
 | [TheAIgentsCompany](https://github.com/TheAIgentsCompany/TheAIgentsCompany) | Core platform (agents, workflows, dashboard) |
+| [🚀 The Last Signal](https://github.com/TheAIgentsCompany/the-last-signal) | Hard sci-fi space chronicle — [Read online](https://story-the-ai-gents-company.vercel.app) |
 
 ---
 
