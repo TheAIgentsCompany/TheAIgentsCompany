@@ -64,8 +64,8 @@
 
 | Repository | Description |
 |------------|-------------|
-| [TheAIgentsCompany-Doc](https://github.com/TheAIgentsCompany/TheAIgentsCompany-Doc) | Official Mintlify documentation |
-| [TheAIgentsCompany](https://github.com/TheAIgentsCompany/TheAIgentsCompany) | Core platform (agents, workflows, dashboard) |
+| [📚 Public Docs](https://docs-the-ai-gents-company.vercel.app) | Public documentation — projects, vision, tech stack |
+| [TheAIgentsCompany-Doc](https://github.com/TheAIgentsCompany/TheAIgentsCompany-Doc) | Internal documentation (private repo) |
 | [🚀 The Last Signal](https://github.com/TheAIgentsCompany/the-last-signal) | Hard sci-fi space chronicle — [Read online](https://story-the-ai-gents-company.vercel.app) |
 
 ---
