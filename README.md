@@ -35,9 +35,9 @@ Instead of a team of separate agents, a central agent loads the right skill for 
 ---
 
 <p align="center">
-  <sub>Built differently.</sub>
+  Developed by <strong>TheAIgentsCompany</strong> · Powered by <strong>Arty</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
