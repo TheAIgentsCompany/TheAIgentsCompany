@@ -31,7 +31,7 @@ Instead of a team of separate agents, a central agent loads the right skill for 
 | [📊 Stats](https://stats-the-ai-gents-company.vercel.app) | Live metrics dashboard |
 | [🚀 The Last Signal](https://story-the-ai-gents-company.vercel.app) | Hard sci-fi space chronicle |
 | [🌐 Website](https://website-the-ai-gents-company.vercel.app) | Organisation showcase |
-| [🤖 MCP Server](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) | AI-accessible projects & skills via MCP protocol — `npx -y @theaigentscompany/mcp` |
+| [🤖 MCP Server](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) | Projects & deploy links for AI agents — `npx -y @theaigentscompany/mcp` — skill names listed (no content) |
 
 ---
 
