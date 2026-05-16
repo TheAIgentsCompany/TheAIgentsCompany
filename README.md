@@ -29,8 +29,9 @@ Instead of a team of separate agents, a central agent loads the right skill for 
 |---------|-------------|
 | [📚 Public Docs](https://theaigentscompany.mintlify.app) | Public documentation — projects, vision, tech stack |
 | [📊 Stats](https://stats-the-ai-gents-company.vercel.app) | Live metrics dashboard |
-| [🚀 The Last Signal](https://story-the-ai-gents-company.vercel.app) | Hard sci-fi space chronicle — [read online](https://story-the-ai-gents-company.vercel.app) |
+| [🚀 The Last Signal](https://story-the-ai-gents-company.vercel.app) | Hard sci-fi space chronicle |
 | [🌐 Website](https://website-the-ai-gents-company.vercel.app) | Organisation showcase |
+| [🤖 MCP Server](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) | AI-accessible projects & skills via MCP protocol — `npx -y @theaigentscompany/mcp` |
 
 ---
 
