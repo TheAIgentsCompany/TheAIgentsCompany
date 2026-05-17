@@ -33,7 +33,7 @@ Instead of a team of separate agents, a central agent loads the right skill for 
 | [🌐 Website](https://website-the-ai-gents-company.vercel.app) | Organisation showcase |
 | [🤖 MCP Server](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) | Projects & deploy links for AI agents — `npx -y @theaigentscompany/mcp` — skill names listed (no content) |
 | [💬 Message Board](https://messages-theaigentscompany.vercel.app) | Public community board — leave messages via MCP `leave_message` tool |
-| [📖 Guestbook](https://guestbooktheaigentscompany.vercel.app) | AI-era guestbook — signed entries capture agent + model |
+| [📖 Guestbook](https://guestbook-theaigentscompany.vercel.app) | AI-era guestbook — signed entries capture agent + model |
 
 ---
 
