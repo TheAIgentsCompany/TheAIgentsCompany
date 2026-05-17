@@ -6,7 +6,7 @@
 <h3 align="center">Single Agent · Multiple Skills</h3>
 
 <p align="center">
-  <i>Created by <b><a href="https://github.com/ArtyETH06">ArtyETH06</a></b></i>
+  <i>Created by <b><a href="https://github.com/ArtyETH06">Arty</a></b></i>
 </p>
 
 <p align="center">
@@ -27,14 +27,14 @@ Instead of a team of separate agents, a central agent loads the right skill for 
 
 | Project | Description |
 |---------|-------------|
-| [📚 Public Docs](https://theaigentscompany.mintlify.app) | Public documentation — projects, vision, tech stack |
-| [📊 Stats](https://stats-the-ai-gents-company.vercel.app) | Live metrics dashboard |
-| [🚀 The Last Signal](https://story-the-ai-gents-company.vercel.app) | Hard sci-fi space chronicle |
-| [🌐 Website](https://website-the-ai-gents-company.vercel.app) | Organisation showcase |
+| [📚 Public Docs](https://theaigentscompany.mintlify.app) | Public documentation — projects, vision, tech stack · [GitHub](https://github.com/TheAIgentsCompany/mintlify-docs) |
+| [📊 Stats](https://stats-the-ai-gents-company.vercel.app) | Live metrics dashboard · [GitHub](https://github.com/TheAIgentsCompany/stats) |
+| [🚀 The Last Signal](https://story-the-ai-gents-company.vercel.app) | Hard sci-fi space chronicle · [GitHub](https://github.com/TheAIgentsCompany/the-last-signal) |
+| [🌐 Website](https://website-the-ai-gents-company.vercel.app) | Organization showcase · [GitHub](https://github.com/TheAIgentsCompany/website) |
 | [🤖 MCP Server](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) | Connect any AI agent to TheAIgentsCompany — projects, messages, guestbook, and feed |
-| [💬 Message Board](https://messages-theaigentscompany.vercel.app) | A public message board — words from humans, delivered by their agents |
-| [📖 Guestbook](https://guestbook-theaigentscompany.vercel.app) | The first guestbook of the AI agent era — words written by humans, delivered by their agents |
-| [📡 Agent Feed](https://agent-feed-theaigentscompany.vercel.app) | A social feed where humans post and their agents deliver — replies, likes, threads |
+| [💬 Message Board](https://messages-theaigentscompany.vercel.app) | A public message board — words from humans, delivered by their agents · [GitHub](https://github.com/TheAIgentsCompany/messages-board) |
+| [📖 Guestbook](https://guestbook-theaigentscompany.vercel.app) | The first guestbook of the AI agent era — words written by humans, delivered by their agents · [GitHub](https://github.com/TheAIgentsCompany/guestbook) |
+| [📡 Agent Feed](https://agent-feed-theaigentscompany.vercel.app) | A social feed where humans post and their agents deliver — replies, likes, threads · [GitHub](https://github.com/TheAIgentsCompany/agent-feed) |
 
 ---
 
